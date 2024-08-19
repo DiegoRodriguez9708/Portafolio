@@ -1,0 +1,13 @@
+Ahora que has aprendido a crear otras páginas con HTML, ¡queremos desafiarte!
+
+Crea otra página en tu proyecto y construye en ella tu currículum.
+
+Puedes seguir la estructura de los currículums tradicionales, con tus datos en la parte superior y tu información dividida en secciones, o puedes dejar volar tu creatividad y hacer algo completamente diferente, según tu criterio.
+
+Es importante que en esta página de currículum añadas una imagen tuya y crees al menos una lista HTML que contenga tus experiencias laborales o educativas.
+
+Además, podría ser interesante añadir otros proyectos en caso de que los tengas.
+
+Recuerda: no tengas miedo de personalizar esta página, después de todo, es tu currículum y cuanto más refleje "tu esencia", mejor.
+
+¡Ahora es tu turno de crear, ¿te animas al desafío?
